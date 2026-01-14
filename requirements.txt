@@ -10,4 +10,5 @@ xgboost
 nltk
 tensorflow==2.13.0
 tensorboard==2.13.0
+streamlit
 #-e .
